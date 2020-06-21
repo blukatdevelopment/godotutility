@@ -1,0 +1,25 @@
+{
+  "name": "godotutility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update_csproj.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blukatdevelopment/godotutility.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blukatdevelopment/godotutility/issues"
+  },
+  "homepage": "https://github.com/blukatdevelopment/godotutility#readme"
+}
